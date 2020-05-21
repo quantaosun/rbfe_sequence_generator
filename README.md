@@ -8,5 +8,7 @@ conda create -n interactivenotebooks python=3 ipywidgets jupyter pandas numpy sc
 # Activate the env
 conda activate interactivenotebooks
 
+# Env file for binder
+environment.yml create as per https://github.com/binder-examples/conda
 
 
