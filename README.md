@@ -11,4 +11,6 @@ conda activate interactivenotebooks
 # Env file for binder
 environment.yml create as per https://github.com/binder-examples/conda
 
+Not getting to run on binder for some reason... trying a simple requirements file instead
+
 
